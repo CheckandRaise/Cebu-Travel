@@ -5,17 +5,19 @@ Cebu is on an island away from Manila. As tourism is a thriving industry in Cebu
 You may refer to the Vlog *[宿务旅游攻略2022-1](https://youtu.be/qIB_sNAncQU)* and *[宿务旅游攻略2022-2](https://youtu.be/VCAyanD0o-I)* for latest tourist experiences. 
 
 ## Part 2 Visa
-Visa can be applicated easily online in advance 30 days.
+Visa can be applied easily online 30 days in advance.
+官网注明 持有有效的美国签证免签证进入菲律宾7天(need to be confirmed!).
 
 ## Part 3 Airline tickets
 The ideal flight is shown in the picture. We can fly from HK to Cebu directly. We have 22-26 five whole days to spend in Cebu.
 ![flight](airline.jpg)
 
 Part 4 Arrangement
-
+<div style="display:none">
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
 |22 and 23| *[Open Water Dive Trainning](https://divefunatics.com/product/open-water-diver-standard/)* |Mactan, Cebu |Learn and get OW certificate with which you can dive up to 18m.|300-400 HKD per night|.|
 | 24 | Take a car to go to Moal Boal 3h|Moal Boal|*[Dive and watch the storm of Sardines](https://www.getyourguide.com/cebu-l615/cebu-deep-sea-diving-at-moalboal-and-pescador-island-t325533/)*|Rent a whole house with swimming pool? 980hkd|.|
 | 25 | Take a car to go to Oslab 2.5h|Oslab|*[Jump the Kawasan waterfall and watch Whale Shark](https://www.getyourguide.com/cebu-city-l433/oslob-whale-shark-swimming-and-kawasan-falls-canyoneering-t218004/)*|Rent a whole house with swimming pool?1331hkd|.|
 | 26 | Go back to Cebu and travel around |Cebu City|Cebu Taoist Temple/Temple of Leah/ Camotes Island etc.|Wait in the airport unitil 4 to go back to HK|.|
+</div>
