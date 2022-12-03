@@ -16,6 +16,6 @@ Part 4 Arrangement
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
 |22 and 23| *[Open Water Dive Trainning](https://divefunatics.com/product/open-water-diver-standard/)* |Mactan, Cebu |Learn and get OW certificate with which you can dive up to 18m.|300-400 HKD per night|.|
-| 24 | Take a car to go to Moal Boal 3h|Moal Boal|Dive and watch the storm of Sardines|Rent a whole house with swimming pool? 980hkd|.|
-| 25 | Take a car to go to Oslab 2.5h|Oslab|Jump the Kawasan waterfall and watch Whale Shark|Rent a whole house with swimming pool?1331hkd|.|
-| 26 | Go back to Cebu and travel around |Cebu City|To be continued|Wait in the airport unitil 4 to ho back to HK|.|
+| 24 | Take a car to go to Moal Boal 3h|Moal Boal|*[Dive and watch the storm of Sardines](https://www.getyourguide.com/cebu-l615/cebu-deep-sea-diving-at-moalboal-and-pescador-island-t325533/)*|Rent a whole house with swimming pool? 980hkd|.|
+| 25 | Take a car to go to Oslab 2.5h|Oslab|*[Jump the Kawasan waterfall and watch Whale Shark](https://www.getyourguide.com/cebu-city-l433/oslob-whale-shark-swimming-and-kawasan-falls-canyoneering-t218004/)*|Rent a whole house with swimming pool?1331hkd|.|
+| 26 | Go back to Cebu and travel around |Cebu City|Cebu Taoist Temple/Temple of Leah/ Camotes Island etc.|Wait in the airport unitil 4 to ho back to HK|.|
