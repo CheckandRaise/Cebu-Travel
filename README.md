@@ -9,3 +9,13 @@ Visa can be applicated easily online in advance 30 days.
 
 ## Part 3 Airline tickets
 The ideal flight is shown in the picture. We can fly from HK to Cebu directly. We have 22-26 five whole days to spend in Cebu.
+![flight](airline.jpg)
+
+Part 4 Arrangement
+
+| Data | Description | Location| Arrangement|Accomodation|Food|
+| --- | ----------- | ---------|----|--|--|
+|22 and 23| *[Open Water Dive Trainning](https://divefunatics.com/product/open-water-diver-standard/)* |Mactan, Cebu |Learn and get OW certificate with which you can dive up to 18m.|||
+| 24 | Take a car to go to Moal Boal |Moal Boal|111||.|
+| 25 | Take a car to go to Moal Boal |Oslab|111|111|.|
+| 26 | Take a car to go to Moal Boal |Cebu City|111|Wait in the airport unitil 4 to ho back to HK|.|
