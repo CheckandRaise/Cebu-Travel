@@ -15,7 +15,7 @@ Part 4 Arrangement
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
-|22 and 23| *[Open Water Dive Trainning](https://divefunatics.com/product/open-water-diver-standard/)* |Mactan, Cebu |Learn and get OW certificate with which you can dive up to 18m.|||
-| 24 | Take a car to go to Moal Boal |Moal Boal|111||.|
-| 25 | Take a car to go to Moal Boal |Oslab|111|111|.|
-| 26 | Take a car to go to Moal Boal |Cebu City|111|Wait in the airport unitil 4 to ho back to HK|.|
+|22 and 23| *[Open Water Dive Trainning](https://divefunatics.com/product/open-water-diver-standard/)* |Mactan, Cebu |Learn and get OW certificate with which you can dive up to 18m.|300-400 HKD per night|.|
+| 24 | Take a car to go to Moal Boal 3h|Moal Boal|Dive and watch the storm of Sardines|Rent a whole house with swimming pool? 980hkd|.|
+| 25 | Take a car to go to Oslab 2.5h|Oslab|Jump the Kawasan waterfall and watch Whale Shark|Rent a whole house with swimming pool?1331hkd|.|
+| 26 | Go back to Cebu and travel around |Cebu City|To be continued|Wait in the airport unitil 4 to ho back to HK|.|
