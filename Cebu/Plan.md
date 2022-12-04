@@ -6,7 +6,8 @@ Cebu is on an island away from Manila. As tourism is a thriving industry in Cebu
 You may refer to the Vlog *[宿务旅游攻略2022-1](https://youtu.be/qIB_sNAncQU)* and *[宿务旅游攻略2022-2](https://youtu.be/VCAyanD0o-I)* for latest tourist experiences. 
 
 *Weather*
-Nov to May is the dry season of Cebu and it is about 23-30℃.
+
+Dec to May is the dry season of Cebu and it is about 23-30℃.
 菲律宾的11月到5月是旱季,气温23到30摄氏度, 需要防晒.
 
 ## Part 2 Visa
