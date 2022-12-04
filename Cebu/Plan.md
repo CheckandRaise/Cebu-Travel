@@ -14,6 +14,10 @@ Dec to May is the dry season of Cebu and it is about 23-30℃.
 Visa can be applied easily online 30 days in advance.
 官网注明 持有有效的美国签证免签证进入菲律宾7天(need to be confirmed!).
 
+*[Reference](https://www.ioutback.com/blog/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B0%BD%E8%AD%89%E6%87%B6%E4%BA%BA%E5%8C%85-%E4%B8%AD%E5%9C%8B%E3%80%81%E9%A6%99%E6%B8%AF%E3%80%81%E6%BE%B3%E9%96%80%E5%AD%B8%E7%94%9F%E7%AF%87)*
+*[Official Website](https://hongkongpcg.dfa.gov.ph/2014-02-27-11-28-41/2014-03-25-07-31-33)*
+*[Application System](https://hongkongpcg.dfa.gov.ph/images/PDF/9a-2Visa_for_Tourism_or_Leisure_Visitors.pdf)*
+
 ## Part 3 Airline tickets
 The ideal flight is shown in the picture. We can fly from HK to Cebu directly. We have 22-26 five whole days to spend in Cebu.
 ![flight](airline.jpg)
