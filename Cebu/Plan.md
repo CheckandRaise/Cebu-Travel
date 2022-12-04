@@ -1,5 +1,5 @@
 # Cebu - Philippines 21. Jan. 2023 - 27. Jan 2023 (除夕-初六)
-### 亲自组织,亲自规划
+<!--### 亲自组织,亲自规划-->
 ## Part 1 Introduction to Cebu
 Cebu City, known as 宿务(宿雾), is a 1st class highly urbanized city in the Central Visayas region of the Philippines and capital of the Cebu Province.
 Cebu is on an island away from Manila. As tourism is a thriving industry in Cebu, there is no need to worry about the security in Cebu. 
