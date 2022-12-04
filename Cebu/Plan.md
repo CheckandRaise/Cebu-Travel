@@ -22,12 +22,13 @@ More flights can be got *[here](https://www.cheapflights.com.hk/flight-search/HK
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
-|21 (arrive at Cebu Mactan)| Fly to Cebu and rest| Mactan(麦克坦,机场岛)|Eat and rest|300-400 per night|.|
-| 22 | Take a car to go to Moal Boal 3h|*[Moal Boal(墨宝)](https://www.kkday.com/en/product/11849-private-tour-moalboal-perscador-island-hopping-cebu-philippines)*|*[Dive and watch the storm of Sardines, Jump the Kawasan waterfall](https://www.youtube.com/watch?v=d8XPaP9ODYI)*|.|.|
-| 23 | Take a car to go to Oslab 2.5h|*[Oslab(欧斯路,鲸鲨村)](https://www.kkday.com/en/product/134610)*|*[Watch Whale Shark](https://www.youtube.com/watch?v=-iaobHU9gCg)*|.|.|
-| 24 | Kalanggaman Island Day tour from Cebu|*[Kalanggaman(梦幻岛)](https://www.kkday.com/en/product/131154-kalanggaman-island-day-tour-from-cebu-philippines)*|*[White Beach and Snorkelling](https://www.youtube.com/watch?v=_UZbkBpryHs)*|.|.|
-| 25 | Take a *[boat](https://www.mafengwo.cn/gonglve/ziyouxing/332696.html)* to Siquijor |*[Siquijor(锡基霍尔)](https://www.mafengwo.cn/gonglve/ziyouxing/31566.html)*|Cambugahay Falls and San Isidro Labrador Convent|.|.|
-| 26 | Go to Bungalows |*[Bungalows(薄荷岛)](https://www.kkday.com/en/product/134610)*|*[Alona Beach, Chotolate Hill](https://www.youtube.com/watch?v=qBrFjzZ9BuM)*|.|.|
+|21 (arrive at Cebu Mactan)| Fly to Cebu and rest| Mactan(麦克坦,机场岛)|Eat and rest|Mactan|.|
+| 22 | Go to Bungalows |*[Bungalows(薄荷岛)](https://www.kkday.com/en/product/134610)*|*[Alona Beach, Chotolate Hill](https://www.youtube.com/watch?v=qBrFjzZ9BuM)*|Mactan|.|
+| 23 | Kalanggaman Island Day tour from Cebu|*[Kalanggaman(梦幻岛)](https://www.kkday.com/en/product/131154-kalanggaman-island-day-tour-from-cebu-philippines)*|*[White Beach and Snorkelling](https://www.youtube.com/watch?v=_UZbkBpryHs)*|.|.|
+| 24 | Take a car to go to Moal Boal 3h|*[Moal Boal(墨宝)](https://www.kkday.com/en/product/11849-private-tour-moalboal-perscador-island-hopping-cebu-philippines)*|*[Dive and watch the storm of Sardines, Jump the Kawasan waterfall](https://www.youtube.com/watch?v=d8XPaP9ODYI)*|Moal Boal|.|
+| 25 | Take a car to go to Oslab 2.5h|*[Oslab(欧斯路,鲸鲨村)](https://www.kkday.com/en/product/134610)*|*[Watch Whale Shark](https://www.youtube.com/watch?v=-iaobHU9gCg)*|Dumaguate(杜马盖地)|.|
+| 26 | Take a *[boat](https://www.mafengwo.cn/gonglve/ziyouxing/332696.html)* to Siquijor |*[Siquijor(锡基霍尔)](https://www.mafengwo.cn/gonglve/ziyouxing/31566.html)*|Cambugahay Falls and San Isidro Labrador Convent|Fly back to Matan|.|
+
 
 ## Preparations
 1. 防水袋
