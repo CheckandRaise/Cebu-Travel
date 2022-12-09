@@ -7,4 +7,4 @@
 | Jan 23 | Accomodations,blue water | 415           |
 | Jan 24 | Accomodations,blue water|  415         |
 | Jan 25 | Accomodations,mango dream | 150         |
-|Total Accomodations' Costs|1373||
+|Total Accomodations' Costs|1373| .|
