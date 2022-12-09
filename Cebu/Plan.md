@@ -24,6 +24,8 @@ The ideal flight is shown in the picture. We can fly from HK to Cebu directly. W
 
 More flights can be got *[here](https://www.cheapflights.com.hk/flight-search/HKG-CEB/2023-01-21/2023-01-27?sort=bestflight_a)*.
 
+*[Final choice](https://github.com/CheckandRaise/Cebu-Travel/blob/main/Cebu/airline.jpg)*
+
 ## Part 4 Arrangement
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
