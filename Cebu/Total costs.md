@@ -7,4 +7,5 @@
 | Jan 23 | Accomodations,blue water | 415           |
 | Jan 24 | Accomodations,blue water|  415         |
 | Jan 25 | Accomodations,mango dream | 150         |
-||Total Accomodations' Costs|1373 |
+| Jan 26 | Accomodations,maayo | 224     |
+||Total Accomodations' Costs|1597 |
