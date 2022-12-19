@@ -45,12 +45,12 @@ More flights can be got *[here](https://www.cheapflights.com.hk/flight-search/HK
 
 
 ## Preparations
-1. 防水袋
-2. 溯溪鞋 (Kawasan waterfall) 需要溯溪爬山路, 跳瀑布. (我们报名私人团会提供头盔和救生衣,导游会搀扶帮助我们), 参照*[这里](https://www.youtube.com/watch?v=d8XPaP9ODYI)*
-3. 防晒霜
+1. 防水包 防水袋
+2. 沙滩鞋 (Kawasan waterfall) 需要溯溪爬山路, 跳瀑布. (我们报名私人团会提供头盔和救生衣,导游会搀扶帮助我们), 参照*[这里](https://www.youtube.com/watch?v=d8XPaP9ODYI)* 迪卡侬
+3. 防晒霜 (防水形)
 4. 浮潜的面镜和呼吸管 (墨宝浮潜看海龟,鲸鲨,梦幻岛也可以浮潜,救生衣是免费的)
-......
-
+5. 驱蚊水
+6. 防晒泳衣 
 <!--
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
